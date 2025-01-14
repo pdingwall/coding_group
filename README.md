@@ -13,9 +13,14 @@ cd directory
  
 ## Heading 2
 
+```bash
+# Coding is pretty chill guys!
+print "Coding is pretty chill guys!"
+```
+
 Test text
 
 ### Heading 3
 
-
+*We're so back*
 
