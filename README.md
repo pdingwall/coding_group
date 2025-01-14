@@ -10,7 +10,7 @@ cd directory
  **"Function"**
  
 ## Heading 2
-This is my addition to the README to test if it works
+I have now removed my addition to the file to see if I can repeat the steps
 
 
 
