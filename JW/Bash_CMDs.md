@@ -53,22 +53,16 @@
 	touch new_file_name.file
 	```
 	
-6. Initialize a new Git repository:
-	```bash
-	git init
-	```
-	
-7. Add the new file to the staging area:
+6. Add the new file to the staging area:
 	```bash
 	git add new_file_name.file
 	```
-	
-8. Commit the new file:
+7. Commit the new file:
 	```bash
 	git commit -m "Message for documentation"
 	```
 	
-9.Push the changes to GitHub:
+8.Push the changes to GitHub:
 	```bash
 	git push origin main
 	```
