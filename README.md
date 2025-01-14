@@ -10,7 +10,6 @@ cd directory
  **"Function"**
  
 ## Heading 2
-I have now removed my addition to the file to see if I can repeat the steps
 
 
 
