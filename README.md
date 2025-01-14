@@ -10,6 +10,7 @@ cd directory
  **"Function"**
  
 ## Heading 2
+This is my addition to the README to test if it works
 
 
 
