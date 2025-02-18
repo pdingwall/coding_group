@@ -1,15 +1,5 @@
-This is the readme file.
+# QUB CCE PGR Coding Problem Group
 
-# Heading 1
-This is text for heading 1.
+Problems to be added monthly.
 
-```bash
-cd directory
-```
-
- **"Function"**
- 
-## Heading 2
-
-
-
+1) TBA...
